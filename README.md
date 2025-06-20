@@ -2,7 +2,8 @@
 WCK ITEMSTIS Order Report 2023 | Premium+ | API | Node.js
 
 # FEATURES
-This software report itemsatis orders with webhooks full automatically.
+|- Report itemsatis orders with webhooks full automatically.
+|- Report daily anaylsis report.
 
 # PURPOSE OF THE PROJECT
 I share this software because you should take instantly order reports from discord (:
